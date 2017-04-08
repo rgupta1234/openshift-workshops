@@ -3,3 +3,4 @@ Don't just read about what OpenShift 3 can do - try it for yourself with [these 
 
 [1]: http://dudash.github.io/openshift-workshops/
 
+aa
